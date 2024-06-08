@@ -1,0 +1,11 @@
+@import './variables';
+
+.App {
+  font-family: $font-family;
+  text-align: center;
+
+  h1 {
+    color: $primary-color;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
